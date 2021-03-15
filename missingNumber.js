@@ -17,4 +17,4 @@ var missingNumber = function(nums) {
 // test solution
 var numbers = [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12]
 let result1 = missingNumber(numbers)
-console.log(result1) // expect result to equal 8
+console.log(result1) // expect result to equal 8 
