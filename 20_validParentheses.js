@@ -55,7 +55,6 @@ let helper = (open, close) => {
   let keyTwo;
 
   if (open === '(' || open === '[' || open === '{') {
-    console.log('this wroked')
     for (var key in opening) {
       if (opening[key] === open) {
         keyOne = key
